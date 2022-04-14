@@ -1,16 +1,16 @@
 <?php
 
 //MySQLi Procedural
- $servername = "localhost";
- $username = "root";
- $password = "";
- $dbname = "cbqs";
+//  $servername = "localhost";
+//  $username = "root";
+//  $password = "";
+//  $dbname = "cbqs";
 
 // Configurasi Web Hosting
-//$servername = "sql307.epizy.com";
-//$username = "epiz_22297090";
-//$password = "y6jeXp280TXg";
-//$dbname = "epiz_22297090_db_web";
+$servername = "sql307.epizy.com";
+$username = "epiz_22297090";
+$password = "y6jeXp280TXg";
+$dbname = "epiz_22297090_db_web";
 
 
 
