@@ -10,7 +10,7 @@
 $servername = "sql111.epizy.com";
 $username = "epiz_31519914";
 $password = "JTxbWcIMh8Nfv";
-$dbname = "epiz_31519914_cbqs";
+$dbname = "epiz_31519914_cbqs2";
 
 
 
