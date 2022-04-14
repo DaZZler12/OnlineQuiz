@@ -20,9 +20,9 @@ else{
 	$_SESSION["idhotel"] =$ids;
 	$_SESSION["id"] =$id;
 	if($role=="admin")
-			header("location:admin/dashboard.php");
+			header("location:/admin/dashboard.php");
 	if($role=="teacher")
-	header("location:teacher/dashboard.php");
+	header("location:/teacher/dashboard.php");
 		
 }
 }
@@ -47,7 +47,7 @@ else{
 	$_SESSION["idhotel"] =$id;
 	$_SESSION["id"] =$id;
 	$_SESSION["class"] =$class;
-		header("location:student/dashboard.php");
+		header("location:/student/dashboard.php");
 		
 }
 }
