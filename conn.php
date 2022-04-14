@@ -7,10 +7,11 @@
 //  $dbname = "cbqs";
 
 // Configurasi Web Hosting
-$servername = "sql307.epizy.com";
-$username = "epiz_22297090";
-$password = "y6jeXp280TXg";
-$dbname = "epiz_22297090_db_web";
+$servername = "sql111.epizy.com";
+$username = "epiz_31519914";
+$password = "JTxbWcIMh8Nfv";
+$dbname = "epiz_31519914_cbqs";
+
 
 
 
