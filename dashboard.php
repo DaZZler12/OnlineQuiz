@@ -29,7 +29,7 @@
 							<ul>
 							<li>
 								<section class="center">
-								<a href="login.html">
+								<a href="login.php">
 								<div class="text">
 								<h2>ADMIN</h2>
 								</div>
@@ -38,7 +38,7 @@
 							</li>
 							<li>
 								<section class="student">
-								<a href="login.html">
+								<a href="login.php">
 								<div class="text">
 								<h2>STUDENT</h2>
 								</div>
@@ -48,7 +48,7 @@
 							
 							<li>
 								<section class="admin">
-								<a href="login.html">
+								<a href="login.php">
 								<div class="text">
 								<h2>TEACHER</h2>
 								</div>
